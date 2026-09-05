@@ -15,3 +15,10 @@ Analysis of daily air quality data across **26 Indian cities from 2015-2020**, *
   
 - **Python (Pandas, Matplotlib, Seaborn)**
 - **Jupyter Notebook**
+
+## DATA CLEANING
+
+- Dropped Xylene column (61% missing values)
+- Filled missing pollutant values using city-wise median, with overall median as fallback
+- Dropped rows missing AQI (calculated field, not raw sensor data)
+- Final dataset: 24,850 rows, zero missing values
