@@ -41,8 +41,32 @@ Analysis of daily air quality data across **26 Indian cities from 2015-2020**, *
 4. **PM2.5 and CO show the strongest correlation with AQI** (0.66 and 0.68), confirming vehicle emissions as a major pollution driver
 5. **National average AQI declined from 213 (2015) to 113 (2020) over the 6-year period**
 
+## SKILLS DEMONSTRATED
+
+- Data cleaning: handling missing values with group-wise (city-level) imputation strategies
+- Exploratory Data Analysis (EDA) using Pandas
+- Time-series feature engineering (extracting Year/Month from Date)
+- Data visualization with Matplotlib and Seaborn (bar charts, line charts, correlation heatmaps)
+- Deriving and validating real-world insights from raw data (e.g. cross-checking city AQI rankings against data availability)
+- Documenting and communicating analytical findings clearly
+
+## QUESTIONS SOLVED 
+
+1. Which Indian cities have the highest and lowest average AQI?
+2. How did national air quality change year-over-year from 2015 to 2020?
+3. Did India's 2020 COVID-19 lockdown have a measurable effect on air quality?
+4. Is there a seasonal pattern to pollution levels across India?
+5. Which pollutants are most strongly correlated with overall AQI?
+
+   
 ## PROJECT FILES
 
 - 📓 [Jupyter Notebook](./air_quality_analysis.ipynb)
 - 📄 [Full Documentation (PDF)](./Air_Quality_Project_Documentation.pdf)
 - 📁 [Screenshots](./screenshots)
+
+## Author
+**Fathima Suzain** — **Data Analyst**
+
+[![GitHub](https://img.shields.io/badge/GitHub-suzain05-181717?style=flat&logo=github)](https://github.com/suzain05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/suzain-3090b82a7)
