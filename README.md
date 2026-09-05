@@ -15,7 +15,15 @@ Analysis of daily air quality data across **26 Indian cities from 2015-2020**, *
   
 - **Python (Pandas, Matplotlib, Seaborn)**
 - **Jupyter Notebook**
+
+
+  ## OBJECTIVES
   
+- Identify India's most and least polluted cities based on average AQI
+- Analyze how national air quality trended over 2015-2020
+- Investigate whether India's COVID-19 lockdown measurably improved air quality
+- Uncover seasonal pollution patterns across Indian cities
+- Determine which pollutants most strongly influence overall AQI
 
 ## DATA CLEANING
 
