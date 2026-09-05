@@ -23,3 +23,12 @@ Analysis of daily air quality data across **26 Indian cities from 2015-2020**, *
 - Filled missing pollutant values using city-wise median, with overall median as fallback
 - Dropped rows missing AQI (calculated field, not raw sensor data)
 - Final dataset: 24,850 rows, zero missing values
+
+
+## KEY INSIGHTS
+
+1. **Ahmedabad has the highest average AQI (452)**, surpassing even Delhi (259)
+2. **AQI dropped sharply during India's 2020 COVID lockdown** (Jan: 166 → April: 87), confirming reduced traffic/industrial activity improved air quality
+3. **Strong seasonal pattern**: AQI peaks in Nov-Jan (winter smog, stubble burning) and drops lowest in Jun-Sep (monsoon)
+4. **PM2.5 and CO show the strongest correlation with AQI** (0.66 and 0.68), confirming vehicle emissions as a major pollution driver
+5. **National average AQI declined from 213 (2015) to 113 (2020) over the 6-year period**
