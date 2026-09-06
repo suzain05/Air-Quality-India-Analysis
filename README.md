@@ -66,7 +66,7 @@ Analysis of daily air quality data across **26 Indian cities from 2015-2020**, *
 - 📄 [Full Documentation (PDF)](./Air_Quality_Project_Documentation.pdf)
 - 📁 [Screenshots](./screenshots)
 
-## Author
+## AUTHOR
 **Fathima Suzain** — **Data Analyst**
 
 [![GitHub](https://img.shields.io/badge/GitHub-suzain05-181717?style=flat&logo=github)](https://github.com/suzain05)
